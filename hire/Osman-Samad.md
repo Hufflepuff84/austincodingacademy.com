@@ -3,7 +3,7 @@ layout: resume #don't touch
 categories: [ hire, graduation, lubbockcodingacademy ] #don't touch
 # You can change anything in quotation marks, and that will show up on your profile.
 
-fullname: "Osman Abdul Samad"
+fullname: "Osman Samad"
 jobtitle: "Web Developer"
 
 location: "Lubbock, TX"
@@ -12,9 +12,9 @@ blurb: "I love math. Coding logic is very similar to the logic of mathematical e
 # first item must be JavaScript or C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
 skills:
-  - "HTML"
-  - "CSS"
   - "C#"
+  - "Anglar.js"
+  - ".NET"
   - "SQL"
   - "JavaScript"
   - "Angular.js"
